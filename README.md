@@ -26,5 +26,5 @@
 ## Second Time 
 
 - Step1: git add .
-- Step2: git comment -m "messsage"
+- Step2: git commit -m "messsage"
 - Step3: git push
