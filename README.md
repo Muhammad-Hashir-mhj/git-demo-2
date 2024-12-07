@@ -17,6 +17,7 @@
 - step7: to make file ready to push we do commit (send to airport)
     - eg: 'git commit -m "Meaning full comment"'
 - step8: to rename branch from 'master' to 'main'
+    - eg: git branch -M main
 - Step9: to set the origin for your local repo for github repo (travelling Destination setting)
     - eg: git remote add origin https://github.com/Muhammad-Hashir-mhj/git-demo-2.git
 - Step10: to push file from local to github repo (In flight from khi to isl)
