@@ -28,3 +28,12 @@
 - Step1: git add .
 - Step2: git commit -m "messsage"
 - Step3: git push
+
+## Branching
+
+- step01: to check out on which branch You are
+    - eg: 'git branch'
+- step02: to move & create new branch
+    - eg: git checkout -b task/development-branch
+
+
